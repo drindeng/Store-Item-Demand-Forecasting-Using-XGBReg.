@@ -1,4 +1,4 @@
-<h1 style="background-color:#1E90FF; color:white" style="font-family: Cambria" align="center">Item-Based Sales Forecasting Using XGBRegressor</h1> 
+<h1 style="background-color:#1E90FF; color:white" style="font-family: Cambria" align="center">Forecasting 3-month sales for 50 products in 10 stores using XGB regressor</h1> 
 
 Dataset: https://www.kaggle.com/competitions/demand-forecasting-kernels-only/data
 
